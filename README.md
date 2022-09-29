@@ -1,2 +1,2 @@
 # WebDev
-It is for web development mini exam
+It is for web development class project
